@@ -1,5 +1,5 @@
 # Spider4Autohome
-that's a simple spider for EV, PHEV, EREV consumers comments. with ttf processing and OCR, the project worked out ttf-anti-spider of Autohome.
+that's a simple spider for EV, PHEV, EREV consumers comments with Selenium. with ttf processing and OCR, the project worked out ttf-anti-spider of Autohome.
 Another spider for comment urls is not uploaded cuz it's quite easy.
 
 The key of this project is to convert ttf to imgs, which will be recognized as actual characters labled by unicode.
